@@ -2,6 +2,10 @@
 
 A simple Zig program to convert PPM images to ASCII art. It supports multiple output modes, scaling, and optional saving of the output image.
 
+<p align="center">
+  <img src="compare.png" alt="compare" width="900">
+</p>
+
 ---
 
 ## Build
